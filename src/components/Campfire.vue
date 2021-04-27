@@ -150,30 +150,6 @@
     };
 </script>
 <style>
-    html,
-    body {
-        width: 100%;
-        height: 100%;
-        min-width: 100vw;
-        min-height: 100vh;
-        max-width: 100vw;
-        max-height: 100vh;
-        margin: 0;
-        padding: 0;
-        background: radial-gradient(#550d39, #270537);
-        text-align: center;
-        overflow-y: hidden;
-    }
-
-    .access-denied-callout-text {
-        top: 10rem;
-        left: 50%;
-        transform: translatex(-50%);
-        position: absolute;
-        color: white;
-        font-family: 'Oxygen', sans-serif;
-        font-size: 2rem;
-    }
 
     .stage {
         width: 100%;
