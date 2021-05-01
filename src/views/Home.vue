@@ -11,7 +11,7 @@
                 Cookout: 7 p.m. - 8 p.m.
             </p>
             <p class="header-item">
-                Caamp concert livestream: 8 p.m. - 10 p.m.
+                Caamp concert livestream: 8 p.m. - 9 p.m.
             </p>
         </div>
         <div class="card card-column dark-text">
@@ -66,9 +66,9 @@
             </h1>
             <p>7 p.m. - 8 p.m. Grilling out, yard games (show up whenever!)</p>
             |
-            <p>8 p.m. - 10 p.m. Streaming Caamp concert</p>
+            <p>8 p.m. - 9 p.m. Streaming Caamp concert</p>
             |
-            <p>9ish p.m. Campfire & Smores!</p>
+            <p>9 p.m. Campfire & Smores!</p>
         </div>
         <div
             id="menu"
@@ -94,10 +94,10 @@
                 <div>
                     <h2>Brats & Dogs</h2>
                     <ul>
-                        <li>Angry Orchard Brat</li>
+                        <li>Pineapple Brat</li>
                         <li>Beer Brat</li>
                         <li>Bacon Cheddar Brat</li>
-                        <li>plain hotdogs</li>
+                        <li>Plain hotdogs</li>
                     </ul>
                 </div>
                 <div>
@@ -106,8 +106,10 @@
                         <li>Vodka Lemonade</li>
                         <li>Moscow Mules</li>
                         <li>Angry Orchard</li>
+                        <li>Ciderboys</li>
+                        <li>Truly Lemonade</li>
                         <li>Bud Light</li>
-                        <li>Or byob</li>
+                        <li>...Or BYOB!</li>
                     </ul>
                 </div>
             </div>
